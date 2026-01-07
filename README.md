@@ -1,87 +1,84 @@
-# Hi, I’m Vasanth Kanapala
+# Hi, I’m Vasanth Kanapala, 
 
-I’m a data engineering and analytics professional with a background in Quality Engineering, now focused on building trusted, scalable analytics solutions across SQL, Python, and BI platforms.
+Data Engineer and Analytics Professional with a background in Quality Engineering.  
+I build **trusted, scalable analytics systems** using SQL, Python, and Power BI, with a strong emphasis on data quality, analytical grain enforcement, and metric integrity.
 
-My work emphasizes **metric correctness, data quality, analytical grain enforcement, and decision-ready reporting**—the foundations required for analytics to be operationally trusted.
+My work focuses on making metrics **reproducible, explainable, and operationally reliable**—not just visually appealing.
 
 ---
 
-## 🔹 Core Focus Areas
-- Data Engineering & SQL-based analytics
-- Inventory, operations, and quality-focused metrics
-- Data quality validation and exception handling
-- Power BI semantic modeling and executive dashboards
-- Python for data analysis and automation
+## Core Expertise
+- SQL-based data modeling and KPI hardening
+- Analytical grain enforcement (SKU × Location, fact-level control)
+- Data quality validation, reconciliation, and exception handling
+- Power BI semantic modeling (measures-first, governed models)
+- Python for data analysis, ingestion, and automation
 - Analytics delivery with enterprise-style governance
 
 ---
 
-## 🔹 Featured Projects
+## Flagship Projects
 
-### **ICQA Inventory Accuracy & Operations Analytics Program**
-**Technologies:** SQL Server, Excel, Power BI, GitHub  
+### ICQA Inventory Accuracy & Operations Analytics Program
+**Stack:** SQL Server, Excel, Power BI  
 
-An end-to-end analytics program simulating how ICQA and operations teams deliver and govern inventory accuracy metrics in enterprise environments.
+Enterprise-style analytics program simulating how ICQA and operations teams deliver inventory accuracy metrics at scale.
 
-**Highlights:**
-- SKU × Location grain enforced across Excel, SQL, and Power BI
-- KPI logic validated in Excel, hardened in SQL, and surfaced in BI
+**Key contributions:**
+- KPI logic validated in Excel, hardened in SQL, surfaced in Power BI
+- Deterministic SKU × Location grain across all layers
 - Explicit data quality controls and exception visibility
-- Separate executive and operations dashboards
-- Sprint-based delivery with test evidence and release notes
+- Executive and operations dashboards built on a governed semantic model
+- Sprint-based delivery with test evidence and release documentation
 
-🔗 Repository:  
-https://github.com/kanva001/AdventureWorks-Data-Analytics-Portfolio
+🔗 https://github.com/kanva001/AdventureWorks-Data-Analytics-Portfolio
 
 ---
 
-### **Retail & Operations Analytics (SQL + Data Quality)**
-**Technologies:** SQL Server, T-SQL, Data Validation Frameworks  
+### SQL KPI Hardening & Data Quality Framework
+**Stack:** SQL Server (T-SQL)  
 
-A collection of SQL-based analytics patterns focused on KPI hardening, reconciliation, and data quality enforcement.
+Reusable SQL patterns for KPI calculation, reconciliation, and validation.
 
-**Highlights:**
-- Deterministic KPI calculation logic
-- Grain validation and aggregation control
+**Focus areas:**
+- Aggregation safety and grain validation
 - Exception detection and sanity checks
-- Reconciliation between analytical layers
+- KPI parity across analytical layers
+- Auditability and repeatability
 
 ---
 
-### **Python Data Analysis & Automation Projects**
-**Technologies:** Python, Pandas, APIs, Visualization  
+### Python Data Analysis & Automation
+**Stack:** Python, Pandas, APIs  
 
-Hands-on Python projects focused on data ingestion, transformation, analysis, and visualization, including API-driven datasets and exploratory analytics.
+Hands-on projects focused on data ingestion, transformation, analysis, and visualization.
 
-**Highlights:**
-- Data ingestion and normalization
-- Exploratory data analysis
-- Visualization and insight generation
+**Focus areas:**
+- API-driven data ingestion
+- Data normalization and analysis
 - Reusable, documented workflows
 
 ---
 
-## 🔹 Background
-I transitioned into data engineering and analytics from a Quality Engineering background, bringing a strong emphasis on:
-- Validation-first thinking
-- Failure-mode awareness
-- Testability and reproducibility
-- Data trust and governance
+## Background
+I transitioned into data engineering and analytics from Quality Engineering, bringing a **validation-first mindset** to data systems.
 
-This perspective shapes how I design analytics systems—not just to produce insights, but to ensure those insights can be trusted.
+This background drives how I design analytics:
+- Failure modes are anticipated, not discovered late
+- Metrics are testable, not assumed correct
+- Trust is built into the pipeline, not added at the dashboard
 
 ---
 
-## 🔹 Tech Stack
-- **Databases:** SQL Server
-- **Analytics & BI:** Power BI, Excel
-- **Programming:** Python (Pandas, analysis workflows)
-- **Version Control:** Git, GitHub
+## Tech Stack
+- **Databases:** SQL Server  
+- **Analytics & BI:** Power BI, Excel  
+- **Programming:** Python (Pandas, analysis workflows)  
+- **Version Control:** Git, GitHub  
 - **Practices:** Data quality, reconciliation, analytical governance
 
 ---
 
-## 🔹 Connect
+## Links
 - GitHub: https://github.com/kanva001
-- LinkedIn: *(add your LinkedIn profile link here)*
-
+- LinkedIn: *(add your LinkedIn URL)*
