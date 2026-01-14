@@ -1,84 +1,67 @@
-# Hi, I’m Vasanth Kanapala, 
+Hi, I’m Vasanth Kanapala
 
-Data Engineer and Analytics Professional with a background in Quality Engineering.  
-I build **trusted, scalable analytics systems** using SQL, Python, and Power BI, with a strong emphasis on data quality, analytical grain enforcement, and metric integrity.
+I design and deliver enterprise-grade data, analytics, and quality engineering systems
+with a focus on reliability, traceability, and production readiness.
 
-My work focuses on making metrics **reproducible, explainable, and operationally reliable**—not just visually appealing.
-
----
-
-## Core Expertise
-- SQL-based data modeling and KPI hardening
-- Analytical grain enforcement (SKU × Location, fact-level control)
-- Data quality validation, reconciliation, and exception handling
-- Power BI semantic modeling (measures-first, governed models)
-- Python for data analysis, ingestion, and automation
-- Analytics delivery with enterprise-style governance
+My work spans the full lifecycle of modern data platforms — from ingestion and
+SQL-first modeling to BI consumption, data quality validation, and GenAI workflow assurance.
 
 ---
 
-## Flagship Projects
+Engineering Focus
 
-### ICQA Inventory Accuracy & Operations Analytics Program
-**Stack:** SQL Server, Excel, Power BI  
+Data & Analytics Engineering
+- SQL-first data modeling using SQL Server and MySQL
+- Incremental ingestion pipelines and reproducible KPI computation
+- Analytics-ready schemas optimized for downstream reporting and BI
 
-Enterprise-style analytics program simulating how ICQA and operations teams deliver inventory accuracy metrics at scale.
+Business Intelligence & Analytics
+- Power BI dashboards with validated, source-traceable metrics
+- KPI reconciliation across Excel, SQL, and BI layers
+- Business-facing analytics aligned to operational and financial outcomes
 
-**Key contributions:**
-- KPI logic validated in Excel, hardened in SQL, surfaced in Power BI
-- Deterministic SKU × Location grain across all layers
-- Explicit data quality controls and exception visibility
-- Executive and operations dashboards built on a governed semantic model
-- Sprint-based delivery with test evidence and release documentation
+Quality Engineering & Reliability
+- Production-grade data quality frameworks
+- Deterministic key strategies and referential integrity enforcement
+- Exception handling, auditability, and release validation
 
-- https://github.com/kanva001/AdventureWorks-Data-Analytics-Portfolio
+GenAI / ML Quality
+- Validation strategies for GenAI and ML workflows
+- Drift detection, consistency checks, and human-in-the-loop review patterns
+- Quality assurance approaches for AI-assisted enterprise systems
 
----
-
-### SQL KPI Hardening & Data Quality Framework
-**Stack:** SQL Server (T-SQL)  
-
-Reusable SQL patterns for KPI calculation, reconciliation, and validation.
-
-**Focus areas:**
-- Aggregation safety and grain validation
-- Exception detection and sanity checks
-- KPI parity across analytical layers
-- Auditability and repeatability
+Delivery & Governance
+- Agile, sprint-based delivery with documented increments
+- Documentation-driven development and design traceability
+- Release readiness supported by validation and test evidence
 
 ---
 
-### Python Data Analysis & Automation
-**Stack:** Python, Pandas, APIs  
+Featured Projects
 
-Hands-on projects focused on data ingestion, transformation, analysis, and visualization.
+Retail Inventory Integrity & Revenue Assurance  
+https://github.com/kanva001/Retail-Inventory-Integrity-Revenue-Assurance  
+Enterprise analytics and data quality platform addressing inventory drift,
+revenue leakage, and KPI integrity across retail systems.
 
-**Focus areas:**
-- API-driven data ingestion
-- Data normalization and analysis
-- Reusable, documented workflows
+RetailOps Intelligence Platform (ROIP)  
+https://github.com/kanva001/RetailOps-Intelligence-Platform  
+Layered analytics architecture separating ingestion, modeling, and BI consumption
+with built-in validation, auditability, and performance awareness.
 
----
-
-## Background
-I transitioned into data engineering and analytics from Quality Engineering, bringing a **validation-first mindset** to data systems.
-
-This background drives how I design analytics:
-- Failure modes are anticipated, not discovered late
-- Metrics are testable, not assumed correct
-- Trust is built into the pipeline, not added at the dashboard
+Enterprise CRM Data Migration (Dynamics 365)  
+https://github.com/kanva001/enterprise-crm-data-migration-dynamics365  
+Production-grade data migration and data quality framework resolving referential
+integrity and master data consistency during enterprise CRM transformation.
 
 ---
 
-## Tech Stack
-- **Databases:** SQL Server  
-- **Analytics & BI:** Power BI, Excel  
-- **Programming:** Python (Pandas, analysis workflows)  
-- **Version Control:** Git, GitHub  
-- **Practices:** Data quality, reconciliation, analytical governance
+Current Focus
+- Strengthening SQL-first KPI pipelines and validation logic
+- Advancing production-ready data quality frameworks
+- Expanding GenAI quality assurance patterns for enterprise workflows
 
 ---
 
-## Links
-- GitHub: https://github.com/kanva001
-- LinkedIn: *(add your LinkedIn URL)*
+Contact
+GitHub: https://github.com/kanva001
