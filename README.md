@@ -1,10 +1,9 @@
-Hi, I’m Vasanth Kanapala
+Vasanth Kanapala — Data, Analytics, and Quality Engineering
 
-I design and deliver enterprise-grade data, analytics, and quality engineering systems
-with a focus on reliability, traceability, and production readiness.
+Design and operate enterprise data, analytics, and quality engineering systems with a focus on reliability, traceability, and production readiness.
 
-My work spans the full lifecycle of modern data platforms — from ingestion and
-SQL-first modeling to BI consumption, data quality validation, and GenAI workflow assurance.
+My work spans the full lifecycle of modern data platforms — including ingestion, SQL-first modeling, BI consumption, data quality enforcement, and GenAI / ML
+workflow validation in large-scale, production environments.
 
 ---
 
@@ -12,28 +11,28 @@ Engineering Focus
 
 Data & Analytics Engineering
 - SQL-first data modeling using SQL Server and MySQL
-- Incremental ingestion pipelines and reproducible KPI computation
-- Analytics-ready schemas optimized for downstream reporting and BI
+- Incremental ingestion pipelines with deterministic key strategies
+- Analytics-ready schemas optimized for performance and downstream BI
 
 Business Intelligence & Analytics
-- Power BI dashboards with validated, source-traceable metrics
+- Power BI dashboards with source-traceable, validated metrics
 - KPI reconciliation across Excel, SQL, and BI layers
-- Business-facing analytics aligned to operational and financial outcomes
+- Analytics aligned to operational and financial decision-making
 
 Quality Engineering & Reliability
-- Production-grade data quality frameworks
-- Deterministic key strategies and referential integrity enforcement
-- Exception handling, auditability, and release validation
+- Production-grade data quality frameworks with exception auditing
+- Referential integrity enforcement across distributed data systems
+- Release validation and regression safety for analytics pipelines
 
-GenAI / ML Quality
-- Validation strategies for GenAI and ML workflows
+GenAI / ML Quality Engineering
+- Validation strategies for GenAI and ML-assisted workflows
 - Drift detection, consistency checks, and human-in-the-loop review patterns
-- Quality assurance approaches for AI-assisted enterprise systems
+- Quality assurance approaches for AI-augmented enterprise systems
 
 Delivery & Governance
 - Agile, sprint-based delivery with documented increments
-- Documentation-driven development and design traceability
-- Release readiness supported by validation and test evidence
+- Documentation-driven design and change traceability
+- Release readiness supported by validation evidence
 
 ---
 
@@ -41,25 +40,23 @@ Featured Projects
 
 Retail Inventory Integrity & Revenue Assurance  
 https://github.com/kanva001/Retail-Inventory-Integrity-Revenue-Assurance  
-Enterprise analytics and data quality platform addressing inventory drift,
-revenue leakage, and KPI integrity across retail systems.
+Enterprise analytics and data quality platform addressing inventory drift,revenue leakage, and KPI integrity across retail systems.
+
+GenAI QE Enterprise Lab  
+https://github.com/kanva001/genai-qe-enterprise-lab  
+Quality engineering framework for validating GenAI and ML workflows, focusing ondrift detection, consistency, failure modes, and human-in-the-loop controls in
+enterprise AI systems.
 
 RetailOps Intelligence Platform (ROIP)  
 https://github.com/kanva001/RetailOps-Intelligence-Platform  
-Layered analytics architecture separating ingestion, modeling, and BI consumption
-with built-in validation, auditability, and performance awareness.
-
-Enterprise CRM Data Migration (Dynamics 365)  
-https://github.com/kanva001/enterprise-crm-data-migration-dynamics365  
-Production-grade data migration and data quality framework resolving referential
-integrity and master data consistency during enterprise CRM transformation.
+Layered analytics architecture separating ingestion, modeling, and BI consumption with built-in validation, auditability, and performance awareness.
 
 ---
 
 Current Focus
 - Strengthening SQL-first KPI pipelines and validation logic
-- Advancing production-ready data quality frameworks
-- Expanding GenAI quality assurance patterns for enterprise workflows
+- Advancing production-ready data quality and QE frameworks
+- Expanding GenAI and ML quality assurance patterns for enterprise workflows
 
 ---
 
