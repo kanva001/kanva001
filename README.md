@@ -32,7 +32,6 @@ Enterprise-style analytics program simulating how ICQA and operations teams deli
 - Sprint-based delivery with test evidence and release documentation
 
 - https://github.com/kanva001/AdventureWorks-Data-Analytics-Portfolio
-- https://github.com/kanva001/genai-qe-enterprise-lab
 
 ---
 
